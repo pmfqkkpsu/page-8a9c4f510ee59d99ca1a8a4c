@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bjmaodi.cn/sitemap.xml

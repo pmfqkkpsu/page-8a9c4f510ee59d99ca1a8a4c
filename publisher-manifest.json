@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "3d44181d2762b167818a3e1c",
+  "owner": "pmfqkkpsu",
+  "repo": "page-8a9c4f510ee59d99ca1a8a4c",
+  "title": "IPNode",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "8a9c4f510ee59d99ca1a8a4c",
+      "a": "IPNode",
+      "b": "2027官方最新地址导航",
+      "entity": "IPNode",
+      "brand": "IPNode",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "ecee11f8350c836bbddbc826528542a7b5f9c641953d2b6b2e1d3604832a03cf",
+      "content": {
+        "primary_entity": "IPNode",
+        "keyword1": "IPNode",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "覆盖 Windows、macOS、iOS、Android 与路由器等常用客户端。",
+          "AI_CLIENTS_TITLE": "客户端与设备适配",
+          "AI_CLOSING_TEXT": "选好套餐后按客户端文档导入订阅，即可开始使用。",
+          "AI_CLOSING_TITLE": "开始选择适合的订阅",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档订阅，分别对应 100GB、300GB 与 1000GB 月流量，支持 3 台、5 台与 20 台设备同时在线。节点覆盖普通线路、IPLC 专线与 VIP 高带宽线路，适合日常浏览、流媒体与游戏加速需求。按年付可享更优价格，客户端配置参考对应平台文档即可完成。",
+          "AI_FEATURES_INTRO": "从流量、设备数与线路类型三个角度挑选合适订阅。",
+          "AI_FEATURES_TITLE": "订阅与适配要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量，支持 3 台设备，适合轻度浏览与移动端使用。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB 流量，支持 5 台设备，含 IPLC 专线与流媒体解锁。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB 流量，支持 20 台设备，配备 VIP 高带宽节点。",
+          "AI_FEATURE_TITLE_1": "流量与设备匹配",
+          "AI_FEATURE_TITLE_2": "线路与场景选择",
+          "AI_FEATURE_TITLE_3": "团队多设备方案",
+          "AI_GUIDE_INTRO": "按套餐选择、适配确认、客户端配置三步完成订阅接入。",
+          "AI_GUIDE_TITLE": "订阅接入步骤",
+          "AI_HERO_INTRO": "IPNode 提供多档订阅方案，可按月或按年付费，覆盖 3 台至 20 台设备，包含普通线路、IPLC 专线与 VIP 高带宽节点，适合不同使用规模。",
+          "AI_HERO_SUBTITLE": "多档订阅，覆盖多设备场景",
+          "AI_HIGHLIGHT_1": "三档套餐，按需选择",
+          "AI_HIGHLIGHT_2": "年付价格更优",
+          "AI_HIGHLIGHT_3": "多客户端支持",
+          "AI_PLANS_INTRO": "基础版 ¥15/月或 ¥150/年，旗舰版 ¥35/月或 ¥350/年，团队版 ¥85/月或 ¥850/年。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据月流量、设备数量与线路类型，在基础版、旗舰版、团队版之间选择。",
+          "AI_STEP_TEXT_2": "确认设备系统与套餐支持的同时在线数量，准备对应客户端。",
+          "AI_STEP_TEXT_3": "参考所选客户端的配置文档，导入订阅信息并连接节点。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置客户端订阅",
+          "AI_VISUAL_TITLE": "IPNode 订阅方案",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "IPNode 三档套餐怎么选？",
+          "AI_FAQ_ANSWER_1": "基础版适合 1 至 3 台设备的轻度使用，旗舰版适合 5 台设备并需要流媒体与游戏加速的用户，团队版面向 20 台设备以内的小型团队与高流量场景。",
+          "AI_FAQ_QUESTION_2": "一个账号可以同时几台设备在线？",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台，旗舰版支持 5 台，团队版支持 20 台同时在线。超出数量时可在客户端断开其他设备或考虑升级档位。",
+          "AI_FAQ_QUESTION_3": "订阅如何导入客户端？",
+          "AI_FAQ_ANSWER_3": "在订阅管理页面获取订阅链接，打开对应客户端选择从链接导入或添加订阅，更新节点后即可连接。不同客户端入口名称略有差异，按说明操作即可。",
+          "AI_FAQ_QUESTION_4": "月付和年付有什么区别？",
+          "AI_FAQ_ANSWER_4": "月付按 ¥15、¥35、¥85 逐月计费，年付分别为 ¥150、¥350、¥850，相当于十个月价格使用十二个月，适合长期稳定使用的用户。",
+          "AI_FAQ_QUESTION_5": "旗舰版的 IPLC 专线适合什么用途？",
+          "AI_FAQ_ANSWER_5": "IPLC 专线在游戏加速与实时交互场景下延迟表现更稳定，同时旗舰版包含全节点原生流媒体解锁，适合对线路质量有要求的用户。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "bjmaodi.cn",
+    "host": "bjmaodi.cn"
+  },
+  "file_hashes": {
+    "index.html": "f6e2168daab19324f4f202c43d302834da264718cc6e9fcce9637b056b9454a9",
+    "sitemap.xml": "345751d072bed541beb4e1fa433099f489370e2dea5f49dff420f9e40a09934c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "08d30a694ef63006de7a6baeb6c52ff82e93bcc241504f2f9b1b8e4446e3877c",
+    "robots.txt": "67e94bfb659fc23f1cf26364e68c99b90d8fd584dfc5eecb00b6aa1425093c60",
+    "731f5e5c9301308d22fd758d4bc9e25d.txt": "1fdd3642561fe3a65b63e07811895e58b7e88638584c06a5cad0a52c2e089037"
+  },
+  "revision": "2f8540dc3ac117939c592600904f7ecd10719e326df1cdbdc28b45f199aaa626"
+}
